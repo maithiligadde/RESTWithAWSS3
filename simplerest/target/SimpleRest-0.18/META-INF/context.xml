@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context antiJARLocking="true" path="/SimpleRest">
+	<Realm className="org.apache.catalina.realm.MemoryRealm"
+		pathname="/usr/share/tomcat8/webapps/ROOT/WEB-INF/users.xml" />
+</Context>
